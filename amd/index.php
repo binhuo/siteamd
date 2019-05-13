@@ -33,7 +33,7 @@ foreach($result as $row)
 	<body>
 		<br /><br />
 		<div class="container" style="width:600px;">
-			<h2 align="center">Insert Dynamic Multi Select Box Data using Jquery Ajax PHP</h2><br /><br />
+			<h2 align="center">O MELHOR PROCESSADOR AMD PARA VOCÊ</h2><br /><br />
 			<form method="post" id="insert_data">
 				<select name="tipo" id="tipo" class="form-control action">
 					<option value="">Qual o tipo de Dipositivo?</option>
